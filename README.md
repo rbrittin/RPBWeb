@@ -24,7 +24,7 @@ The template includes the following structure:
 ### 1. **Clone or Download This Repository**  
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/MaazAmjad/create_website.git
+git clone https://github.com/rbrittin/RPBWeb.git
 ```
 Alternatively, download it as a ZIP file and extract it.
 
